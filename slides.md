@@ -5,7 +5,7 @@
 ## CUN 1001
 <br>
 ###### Enrico Agostini Marchese
-<small>enrico.agostini.marchese@umontreal.ca</small>
+<small>enrico.agostini.marchese@uqtr.ca</small>
 <br>
 _UQTR_
 <br>
